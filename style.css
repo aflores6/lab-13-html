@@ -1,0 +1,11 @@
+p {
+	color: green;
+	font-size: 30px;
+	text-transform: uppercase;
+	text-decoration: line-through;
+}
+h1, h2, h3 {
+	color: red;
+	background-color: #888888;
+	font-family: sans-serif;
+}
