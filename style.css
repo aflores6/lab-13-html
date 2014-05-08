@@ -1,3 +1,9 @@
+#intro {
+	border: 5px #000000 solid;
+}
+.spotlight {
+	background-color: #fefe22;
+}
 p {
 	color: green;
 	font-size: 30px;
